@@ -29,6 +29,7 @@ body {
     grid-template-columns: repeat(5, 1fr);
     grid-gap: 5px;
     align-items: center;
+    font-size: 18px;
 }
 a {
     text-decoration: none;
